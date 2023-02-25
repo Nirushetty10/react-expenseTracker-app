@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "name":"Niru",
+        "phone":987654321,
+        "place":"chickmagalur"
+    },
+    {
+        "id":2,
+        "name":"Ravi",
+        "phone":987656542,
+        "place":"Hassan"
+    },
+    {
+        "id":3,
+        "name":"Akshay",
+        "phone":987600021,
+        "place":"udupi"
+    }
+
+]
